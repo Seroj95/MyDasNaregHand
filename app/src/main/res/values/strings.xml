@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimerHomework</string>
+    <string name="init_time">0:00:00</string>
+    <string name="button_start">Start</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="info">Ջնջել ու համար երկար պահեք,դուք ընտրելք համար</string>
+    <string name="duq_mutqeq_gorcel">Դուք մուտք եք գործել նշված ժամանակահատվածում</string>
+
+</resources>
